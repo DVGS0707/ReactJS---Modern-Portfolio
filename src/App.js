@@ -9,7 +9,7 @@ import Education from "./components/sections/Education";
 import Projects from "./components/sections/Projects";
 import Contact from "./components/sections/Contact";
 import Footer from "./components/sections/Footer";
-
+//comment
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
   width: 100%;
